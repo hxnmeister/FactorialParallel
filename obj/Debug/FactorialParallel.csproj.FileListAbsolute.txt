@@ -1,0 +1,7 @@
+C:\GitHubDesktop\FactorialParallel\bin\Debug\FactorialParallel.exe.config
+C:\GitHubDesktop\FactorialParallel\bin\Debug\FactorialParallel.exe
+C:\GitHubDesktop\FactorialParallel\bin\Debug\FactorialParallel.pdb
+C:\GitHubDesktop\FactorialParallel\obj\Debug\FactorialParallel.csproj.AssemblyReference.cache
+C:\GitHubDesktop\FactorialParallel\obj\Debug\FactorialParallel.csproj.CoreCompileInputs.cache
+C:\GitHubDesktop\FactorialParallel\obj\Debug\FactorialParallel.exe
+C:\GitHubDesktop\FactorialParallel\obj\Debug\FactorialParallel.pdb
